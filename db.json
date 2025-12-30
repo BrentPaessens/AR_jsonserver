@@ -3,17 +3,18 @@
     {
       "id": 1,
       "name": "Achtertuin",
-      "latitude": 50.980292,
-      "longitude": 5.124172,
+      "latitude": 50.980349,
+      "longitude": 5.124327,
       "discovered": false
     },
     {
       "id": 2,
       "name": "Bos",
-      "latitude": 50.982767,
-      "longitude": 5.115083,
+      "latitude": 50.982823,
+      "longitude": 5.115549,
       "discovered": false     
     }
   ]
 }
+
 
