@@ -2,20 +2,17 @@
   "locations": [
     {
       "id": 1,
-      "name": "Refter", 
-      "latitude": 51.161469,
-      "longitude": 4.961046,
+      "name": "Achtertuin",
+      "latitude": 50.980292,
+      "longitude": 5.124172,
       "discovered": false
     },
     {
       "id": 2,
-      "name": "Stuvo",
-      "latitude":  51.160545,
-      "longitude": 4.960893,
-      "discovered": false
-    }
+      "name": "Bos",
+      "latitude": 50.982767,
+      "longitude": 5.115083,
+      "discovered": false     
+    },
   ]
 }
-
-
- 
