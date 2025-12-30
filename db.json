@@ -2,27 +2,13 @@
   "locations": [
     {
       "id": 1,
-      "name": "Achtertuin",
-      "latitude": 50.980741,
-      "longitude": 5.123844,
-      "discovered": false
-    },
-    {
-      "id": 2,
-      "name": "Tennis",
-      "latitude": 50.972280,
-      "longitude": 5.124510,
-      "discovered": false
-    },
-    {
-      "id": 3,
       "name": "Refter", 
       "latitude": 51.161469,
       "longitude": 4.961046,
       "discovered": false
     },
     {
-      "id": 4,
+      "id": 2,
       "name": "Stuvo",
       "latitude":  51.160545,
       "longitude": 4.960893,
@@ -30,5 +16,6 @@
     }
   ]
 }
+
 
  
