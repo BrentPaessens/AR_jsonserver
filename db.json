@@ -13,6 +13,7 @@
       "latitude":  51.160545,
       "longitude": 4.960893,
       "discovered": false
+    },
     {
       "id": 3,
       "name": "E214",
@@ -22,6 +23,7 @@
     }
   ]
 }
+
 
 
 
